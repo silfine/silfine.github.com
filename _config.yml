@@ -1,7 +1,7 @@
 # Site settings
 title: Another Blog
 url: "https://silfine.github.io"
-baseurl:""
+baseurl: ""
 #timezone: Asia/Chongqing
 description: >
   One or more sentences introducing this blog.
